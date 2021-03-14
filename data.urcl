@@ -1,0 +1,5 @@
+CAL .main
+HLT
+.main
+IN R1, %79
+RET
